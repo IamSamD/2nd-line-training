@@ -25,12 +25,6 @@ If you do not feel you have much knowledge around REST APIs check out this short
 There are many tools you can use to send HTTP requests to a REST API. 
 You can use command line tools like: 
 
-**curl**
-
-[curl](https://curl.se/) is included out of the box if using bash or PowerShell
-
-curl is most commonly used for when you want to quickly make HTTP requests form the command line or want to make HTTP requests in a bash script. 
-
 <br>
 
 **PowerShell**
@@ -55,7 +49,10 @@ You are not limited to those learing resources only, feel free to use google or 
 
 Make an HTTP GET request to the [icanhazdadjoke](https://icanhazdadjoke.com/api) API to retreive a random Dad Joke. 
 
-Once you have the response, post the whole response object to me and I will verfiy that you completed the challenge successfully. 
+Once you have the response, send the code or a screenshot of the request you used in postman and the whole response object to me and I will verfiy that you completed the challenge successfully. 
+
+**Restrictions**
+The only restriction is that you are not allowed to use curl to make this request as the API documentation gives you the exact command to use, so...that would be cheating ;)
 
 If you have made your best attempt at figuring this out for yourself and are still unable to complete the challenge, that's okay! Reach out to the team for some help. It's all a learnng process. The important thing here is that you have made your best effort. 
 
